@@ -1,0 +1,7 @@
+When running the program for the first time the python virtual environment will be automatically generated,
+
+Once the virtual environment is generated the GUI will appear and allow the user to run required functions.
+
+Within the directory ./Datasets/Train , dump the .wav files of the dataset you wish to train on and a csv containing the filename and label.
+
+All other running information can be found within the test plan
