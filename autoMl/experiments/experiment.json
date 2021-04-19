@@ -1,0 +1,1 @@
+{"train": "..\\datasets\\train", "test": "..\\datasets\\test", "train_cnn": "..\\training_cnn", "train_tab": "..\\training_tabular", "trained_cnn": "..\\trained_cnn", "trained_tab": "..\\trained_tabular", "venv": "..\\auto-ml-env"}
