@@ -6,7 +6,7 @@ to make machine learning models more accessible to developers of all backgrounds
 
 autoMl - contains the local deployment of the project
 
-Blog - contains a HTML blog detailing the formal development of the project, the site can also be viewed at HTTPS://kmcshane811.github.io
+Blog - contains a HTML blog detailing the formal development of the project, the site can also be viewed at https://kmcshane811.github.io
 
 How to Guide - contains a static HTML page detailing the setting up of a Colab notebook and the debugging of a fastai example notebook
 
