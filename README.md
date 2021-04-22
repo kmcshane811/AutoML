@@ -16,3 +16,5 @@ Project Diary - Contains the informal project diary that was kept throughout the
 
 Testing - contains a test plan to ensure the local model is running correctly and 2 completed tests by 2 fellow students
 
+The project was also displayed within a social media post on the subreddit r/learnmachinelearning availible here:
+https://www.reddit.com/r/learnmachinelearning/comments/mur9f4/automating_the_machine_learning_process/
