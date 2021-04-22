@@ -5,3 +5,15 @@ Once the virtual environment is generated the GUI will appear and allow the user
 Within the directory ./Datasets/Train , dump the .wav files of the dataset you wish to train on and a csv containing the filename and label.
 
 All other running information can be found within the test plan
+
+------Requirements------
+
+Python 3.8
+Cuda 10.1
+
+torch 1.8
+torchvision 0.9.0
+torchaudio 0.8.0
+fastai 2.2.7
+fastaudio 0.1.4
+librosa 0.8.0
